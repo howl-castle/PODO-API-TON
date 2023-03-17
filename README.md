@@ -1,5 +1,8 @@
 # PODO-API-TON
 
+### 0. Why API and iOS for a dApp?
+![IA](https://github.com/[howl-castle]/[PODO-API-TON]/blob/main/IA.png?raw=true)
+
 
 ### 1. Deployed on https://gleaming-cove-378613.ue.r.appspot.com/
 
