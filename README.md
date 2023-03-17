@@ -1,4 +1,4 @@
-# PODO-API-TON
+# API for PODO iOS
 
 ### 0. Why API and iOS for a dApp?
 - Flawless user experience has been considered to be the main key to achieve MASS ADOPTION in blockchain
@@ -10,7 +10,7 @@
 ![IA](https://github.com/howl-castle/PODO-API-TON/blob/main/IA.png?raw=true)
 
 
-### 1. Deployed on https://gleaming-cove-378613.ue.r.appspot.com/
+### 1. Deployed on https://gleaming-cove-378613.ue.r.appspot.com/ (WIP)
 
 
 ### 2. Main stacks
